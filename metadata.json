@@ -1,0 +1,6 @@
+{
+  "name": "NimmyTrends",
+  "description": "Premium hair accessories and hair styling tools e-commerce store. Makes you beautiful.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
